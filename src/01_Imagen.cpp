@@ -10,6 +10,7 @@ int main()
     if (!texture.loadFromFile("./assets/images/pikachu.png"))
     {
         // Manejar el error si no se puede cargar la imagen
+        //p
         return -1;
     }
 
