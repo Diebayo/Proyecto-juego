@@ -11,6 +11,7 @@ Buscar la variable de usuario PATH y abrirla
 <br/>
 <img src="./images/path.png" alt="Variables de entorno" width="50%" />
 
+
 Agregar los siguientes registros y darle en aceptar hasta cerrar todos los dialogos:
 > C:\msys64\mingw64\bin
 
@@ -19,3 +20,4 @@ Agregar los siguientes registros y darle en aceptar hasta cerrar todos los dialo
 Asi se debe de ver el resultado
 <br/>
 <img src="./images/path-1.png" alt="Variables de entorno" width="50%" />
+
